@@ -1,6 +1,3 @@
-in simple steps:
-
-
 #!/bin/bash
 
 # 🚀 Script para build cross-platform do Nebula (Linux + Windows)
